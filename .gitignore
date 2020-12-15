@@ -1,8 +1,12 @@
 .ipynb_checkpoints
 checkpoints
 dnn_model
+fonts
 my_dir
 saved_model
+test
+titanic.tfsnap
+traffic
 training_1
 training_2
 my_model.h5
