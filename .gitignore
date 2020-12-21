@@ -2,6 +2,7 @@
 checkpoints
 dnn_model
 fonts
+logs
 my_dir
 saved_model
 test
@@ -9,6 +10,7 @@ titanic.tfsnap
 traffic
 training_1
 training_2
+training_checkpoints
 images.tfrecords
 my_model.h5
 test.tfrecord
