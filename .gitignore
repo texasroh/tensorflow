@@ -7,6 +7,7 @@ my_dir
 saved_model
 test
 titanic.tfsnap
+tmp
 traffic
 training_1
 training_2
