@@ -1,4 +1,5 @@
 .ipynb_checkpoints
+aclImdb*
 checkpoints
 dnn_model
 fonts
@@ -15,3 +16,4 @@ training_checkpoints
 images.tfrecords
 my_model.h5
 test.tfrecord
+*.tsv
