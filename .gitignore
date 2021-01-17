@@ -8,7 +8,7 @@ kor-eng
 logs
 my_dir
 saved_model
-test
+test*
 titanic.tfsnap
 tmp
 traffic
