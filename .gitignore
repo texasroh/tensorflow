@@ -21,3 +21,5 @@ my_model.h5
 test.tfrecord
 *.tsv
 data
+dcgan.gif
+DCGAN
